@@ -1,0 +1,10 @@
+==============================================================================
+Tasks :: Insert the sales data for the week and export it as a PDF            
+==============================================================================
+Insert the sales data for the week and export it as a PDF             | PASS |
+------------------------------------------------------------------------------
+Tasks :: Insert the sales data for the week and export it as a PDF    | PASS |
+1 task, 1 passed, 0 failed
+==============================================================================
+Output:  /Users/madmac/Desktop/robot/output/output.xml
+Log:     /Users/madmac/Desktop/robot/output/log.html

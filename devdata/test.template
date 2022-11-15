@@ -1,0 +1,6 @@
+<html>
+<body>
+<p><img src="{{image}}"/></p>
+<div>{{sales_results_html}}</div>
+</body>
+</html>
